@@ -42,6 +42,7 @@ img{
 /* Reviews */
 #reviews{
     background-color: #0c8f00;
+    border-radius: 25px;
     padding: 8px;
     Margin: 10px;
     color: white;
@@ -107,6 +108,7 @@ footer{
     /* Reviews */
     #reviews{
         background-color: #0c8f00;
+        border-radius: 25px;
         padding: 8px;
         Margin: 10px;
         display: grid;
